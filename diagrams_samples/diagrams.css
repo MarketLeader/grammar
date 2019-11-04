@@ -22,8 +22,9 @@ svg.railroad-diagram g.non-terminal rect {
 }
 
 svg.railroad-diagram rect {
-    stroke-width: 3;
     stroke: black;
+    stroke-width: 3;
+    fill-opacity: 0.1;
     fill: hsl(190, 100%, 83%);
 }
 
